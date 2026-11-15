@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+movies_data.json
+movies.json
+.DS_Store
